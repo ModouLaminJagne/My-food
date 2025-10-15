@@ -1,0 +1,2 @@
+Placeholder for app icon (1024x1024).
+Replace this with an actual PNG image of a food-related icon.

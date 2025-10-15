@@ -130,7 +130,7 @@ This Flutter version is a faithful port of the React Native app with the followi
 
 ## License
 
-This project is licensed under the ISC License - same as the original React Native version.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Related Projects
 

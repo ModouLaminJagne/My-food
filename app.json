@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "My Food",
+    "slug": "my-food",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FF6347"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "backgroundColor": "#FF6347"
+    },
+    "web": {
+      "backgroundColor": "#FF6347"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow My Food to access your camera to take pictures of your food."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow My Food to access your photos to upload your profile picture."
+        }
+      ]
+    ]
+  }
+}

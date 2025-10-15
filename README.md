@@ -2,6 +2,9 @@
 
 A mobile application for food lovers! Available in both React Native and Flutter versions.
 
+> 📱 **Two Platforms, One App!** This repository contains complete implementations in both React Native and Flutter.  
+> See the [**Dual Platform Guide**](DUAL_PLATFORM_GUIDE.md) for a complete overview.
+
 ## Versions Available
 
 - **React Native Version** (Root directory): Built with Expo - See below for setup

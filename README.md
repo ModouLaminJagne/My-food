@@ -1,6 +1,18 @@
 # My Food
 
-A mobile application for food lovers! My Food is a React Native app built with Expo that helps you discover, save, and explore different food options.
+A mobile application for food lovers! Available in both React Native and Flutter versions.
+
+> 📱 **Two Platforms, One App!** This repository contains complete implementations in both React Native and Flutter.  
+> See the [**Dual Platform Guide**](DUAL_PLATFORM_GUIDE.md) for a complete overview.
+
+## Versions Available
+
+- **React Native Version** (Root directory): Built with Expo - See below for setup
+- **Flutter Version** (`flutter_app/` directory): Built with Dart/Flutter - [See Flutter README](flutter_app/README.md)
+
+## React Native Version
+
+My Food is a React Native app built with Expo that helps you discover, save, and explore different food options.
 
 ## Features
 
@@ -44,6 +56,7 @@ A mobile application for food lovers! My Food is a React Native app built with E
 
 ## Project Structure
 
+### React Native Version (Root)
 ```
 My-food/
 ├── screens/           # All app screens
@@ -57,6 +70,17 @@ My-food/
 ├── App.js             # Main app entry with navigation
 ├── app.json           # Expo configuration
 └── package.json       # Dependencies
+```
+
+### Flutter Version (`flutter_app/`)
+```
+flutter_app/
+├── lib/
+│   ├── main.dart                    # App entry point
+│   └── screens/                     # All Flutter screens
+├── android/                         # Android-specific files
+├── ios/                            # iOS-specific files
+└── pubspec.yaml                    # Flutter dependencies
 ```
 
 ## Technologies Used
@@ -75,5 +99,5 @@ The app requires the following permissions:
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 

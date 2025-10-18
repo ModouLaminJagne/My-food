@@ -90,7 +90,7 @@ flutter_app/
 - **React Navigation**: Navigation library
 - **Expo Camera**: Camera functionality
 - **Expo Image Picker**: Image selection and upload
-
+- **Flutter**: For flutter Developers 
 ## Permissions
 
 The app requires the following permissions:

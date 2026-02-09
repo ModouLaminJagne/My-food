@@ -7,7 +7,7 @@ A mobile application for food lovers! Available in both React Native and Flutter
 
 ## Versions Available
 
-- **React Native Version** (Root directory): Built with Expo - See below for setup
+- **React Native Version** (Root directory): Built with Expo - See below for setup for eetails.
 - **Flutter Version** (`flutter_app/` directory): Built with Dart/Flutter - [See Flutter README](flutter_app/README.md)
 
 ## React Native Version
